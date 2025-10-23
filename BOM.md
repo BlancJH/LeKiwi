@@ -35,12 +35,12 @@ These parts are the same for both 5V and 12V versions:
 | **Total** ||  **$98**  ||  **€91** ||  **¥564** || **AU$238.16** ||
 
 ### Other
-| Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) |
-|--|:-:|:-:|-|:-:|-|:-:|-|
-| Table Clamp 4pcs | 1 | $18 | [Amazon](https://www.amazon.com/WORKPRO-Clamps-Woodworking-One-Handed-Spreader/dp/B0CQYDJWS8/) | € 21 | [Amazon](https://www.amazon.fr/dp/B08HW9VFM8/)| ¥10.8\*4  |[Taobao](https://e.tb.cn/h.64r5eomI6L59tBE?tk=gZWeex9fnlB "https://e.tb.cn/h.64r5eomI6L59tBE?tk=gZWeex9fnlB")|
-| Screwdriver Set | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | €10 | [Amazon](https://www.amazon.fr/dp/B08ZXVMVYD/) | ￥20 |[Taobao](https://e.tb.cn/h.6ReL0wwgtPuSmNV?tk=3rLDV10AVtr)  |
-| USB-C to USB-A Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) |￥17  |[Taobao](https://e.tb.cn/h.64HOv24RLmYC4Yh?tk=AXpgexkDFd4 "https://e.tb.cn/h.64HOv24RLmYC4Yh?tk=AXpgexkDFd4")|
-| **Total** ||  **$31**  ||  **€38** || **¥80.20** ||
+| Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) | Unit Cost (AU) | Buy (AU) |
+|--|:-:|:-:|-|:-:|-|:-:|-|:-:|-|
+| Table Clamp 4pcs | 1 | $18 | [Amazon](https://www.amazon.com/WORKPRO-Clamps-Woodworking-One-Handed-Spreader/dp/B0CQYDJWS8/) | € 21 | [Amazon](https://www.amazon.fr/dp/B08HW9VFM8/)| ¥10.8\*4  |[Taobao](https://e.tb.cn/h.64r5eomI6L59tBE?tk=gZWeex9fnlB "https://e.tb.cn/h.64r5eomI6L59tBE?tk=gZWeex9fnlB")| AU$59.27 | [Amazon](https://www.amazon.com.au/WORKPRO-Woodworking-One-Handed-Light-Duty-Screw-Change/dp/B0BXS8QJ9W)|
+| Screwdriver Set | 1 | $6 | [Amazon](https://www.amazon.com/Precision-Phillips-Screwdriver-Electronics-Computer/dp/B0DB227RTH) | €10 | [Amazon](https://www.amazon.fr/dp/B08ZXVMVYD/) | ￥20 |[Taobao](https://e.tb.cn/h.6ReL0wwgtPuSmNV?tk=3rLDV10AVtr)  | AU$11.99 | [Amazon](https://www.amazon.com.au/Precision-Screwdriver-Electronics-Computer-Repair/dp/B07PV5D3VV/ref=asc_df_B07PV5D3VV?mcid=273797903b833ed9b7993dd70876f36f&tag=googleshopdsk-22&linkCode=df0&hvadid=712291504315&hvpos=&hvnetw=g&hvrand=5739678057006192446&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9070586&hvtargid=pla-787652459964&gad_source=1&th=1)|
+| USB-C to USB-A Cable 2 pcs | 1 | $7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | €7 | [Amazon](https://www.amazon.fr/dp/B07BNF842T/) |￥17  |[Taobao](https://e.tb.cn/h.64HOv24RLmYC4Yh?tk=AXpgexkDFd4 "https://e.tb.cn/h.64HOv24RLmYC4Yh?tk=AXpgexkDFd4")| AU$11 | [Amazon](https://www.amazon.com.au/Azhizco-USB-Cable-Charging-Motorola/dp/B0DKTH7XWP/ref=asc_df_B0DKTH7XWP?mcid=c29b280d684d3660958493faa0d49b84&tag=googleshopdsk-22&linkCode=df0&hvadid=718462099342&hvpos=&hvnetw=g&hvrand=931670675177564607&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9070589&hvtargid=pla-2402314798496&gad_source=1&th=1)|
+| **Total** ||  **$31**  ||  **€38** || **¥80.20** || **AU$82.26** ||
 
 ## 12V version :battery:
 
