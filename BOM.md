@@ -2,13 +2,13 @@
 
 This page provides a complete list of parts needed to build the LeKiwi mobile manipulator. Our total cost is displayed in the table <sup>[1](#footnote1)</sup>.
 
-| Price| US  | EU  | CN |
-|---------|----:|----:|----:|
-| **12V** |  **$482**  |  **€545.8**  |  **¥2891**  |
-| **5V**  |  **$499**  |  **€526**  |  **¥2829**  |
-| **Base only (5V)** |  **$248**  |  **€295**  |  **¥1571**  |
-| **Base only (12V)** |  **$251.5**  |  **€307.8**  |  **¥1501**  |
-| **Base only  wired** |  **$184**  |  **€235**  | **¥963.9**  |
+| Price| US  | EU  | CN | AU |
+|---------|----:|----:|----:|----:|
+| **12V** |  **$482**  |  **€545.8**  |  **¥2891**  | |
+| **5V**  |  **$499**  |  **€526**  |  **¥2829**  | |
+| **Base only (5V)** |  **$248**  |  **€295**  |  **¥1571**  | |
+| **Base only (12V)** |  **$251.5**  |  **€307.8**  |  **¥1501**  | |
+| **Base only  wired** |  **$184**  |  **€235**  | **¥963.9**  | |
 
 > [!NOTE] 
 > Prices and items may vary depending on geographic location and time of purchase. If you find links for other countries or cheaper suppliers, please create an issue or PR so that we add them to the list!
@@ -19,11 +19,11 @@ This page provides a complete list of parts needed to build the LeKiwi mobile ma
 
 These parts are the same for both 5V and 12V versions:
 ### Mobile Base Structure:
-| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) |
-| - | - | - | - | - | - | - | - |
-| 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) | €24.5 | [RobotShop](https://eu.robotshop.com/products/100mm-omnidirectional-wheel-brass-bearing-rollers) |￥135 |[PDD](https://mobile.yangkeduo.com/goods.html?ps=kKWPC7xuzw "https://mobile.yangkeduo.com/goods.html?ps=kKWPC7xuzw")|
-| M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F) | €23.5 | [Amazon](https://www.amazon.fr/Cylindrique-Inoxydable-M2-Socket-Assortiment/dp/B09Y8WYFWD/) |￥25 |[Taobao（M2x5+M3套装+M3x10+M4x12）](https://e.tb.cn/h.64O1J2A9Is4pIJd "https://e.tb.cn/h.64O1J2A9Is4pIJd")              |
-| **Total** || **$44.96** || **€97** || **¥430** ||
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) | Unit Cost (AU) | Buy (AU) |
+| - | - | - | - | - | - | - | - | - | - |
+| 4" Omni wheels | 3 | $9.99 | [VEX Robotics](https://www.vexrobotics.com/omni-wheels.html?srsltid=AfmBOorWdWT-FIiWSAbicYWSxqYr-d5X3CJSGxMkO33WO0thwlTn4DQu) | €24.5 | [RobotShop](https://eu.robotshop.com/products/100mm-omnidirectional-wheel-brass-bearing-rollers) |￥135 |[PDD](https://mobile.yangkeduo.com/goods.html?ps=kKWPC7xuzw "https://mobile.yangkeduo.com/goods.html?ps=kKWPC7xuzw")|AU$52.74 |[Ebay](https://www.ebay.com.au/itm/157117069890?_skw=100mm+omni+wheel&itmmeta=01K87GE9D54JRR5KYX9VWNHYMN&hash=item2494e83a42%3Ag%3ACJkAAeSwdxhoVg7f&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cR%2BgsWDO8CbQASBTNY0YkQ6oc1g4Dya1v1UDXOuvoAefGB3vDFflM7TMhwafPQAyflcBTzMc2%2FettlbJvW3LP8%2FvyvEIfgJs2xBWDA2VkYevj3ErjfTdqE%2Felhm5gwgTwMLfG%2FamzX00Jrr0I5Xjhxtm%2BHw9m6BgMtYcZP09MadzV%2Fj%2BGvE9O555gNxS6nfehu7kKtGxAHJzgCU8jsU%2BZ34GL5eFYDJbIWQXZW0QSzD8%2FkpbwCfRaJqEx0EiyNAZZqSwEFGr6P9luUP1DwLPsnNVsNPsMEmyqrv128ky9y5A%3D%3D%7Ctkp%3ABk9SR9qWufDBZg&LH_ItemCondition=3)|
+| M2 M3 M4 Assorted Screw Set | 1 | $14.99 | [Amazon](https://www.amazon.com/Button-Socket-Washers-Assortment-Machine/dp/B0BMQGJP3F) | €23.5 | [Amazon](https://www.amazon.fr/Cylindrique-Inoxydable-M2-Socket-Assortiment/dp/B09Y8WYFWD/) |￥25 |[Taobao（M2x5+M3套装+M3x10+M4x12）](https://e.tb.cn/h.64O1J2A9Is4pIJd "https://e.tb.cn/h.64O1J2A9Is4pIJd")              | AU$40 |[Harfington](https://www.harfington.com/en-au/products/p-1733859?currency=AUD&country=AU&variant=46554251723001&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=f8e35277684b&utm_source=Google&utm_medium=cpc&utm_campaign=250630-au-pmax-HW&utm_term=250630-au-pmax-HW&utm_content=ywh&gad_source=1&gad_campaignid=22733315738&gbraid=0AAAAAoTFl2RcO9z2gKEkt3y7291s2patB&gclid=CjwKCAjwgeLHBhBuEiwAL5gNEYlQu2eLTRqCgUy2aFbuTlTnqg8V0Ynccm8t-arV8V_6LOYExxqsshoC8psQAvD_BwE)
+| **Total** || **$44.96** || **€97** || **¥430** || **AU$198.18** ||
 
 ### Sensors and Compute:
 
