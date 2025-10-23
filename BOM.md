@@ -27,12 +27,12 @@ These parts are the same for both 5V and 12V versions:
 
 ### Sensors and Compute:
 
-| Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |  Unit Cost (CN) | Buy (CN) |
-|--|:-:|:-:|-|:-:|-|:-:|-|
-| Raspberry Pi 5 (4GB)| 1 |$60.00| [Adafruit](https://www.adafruit.com/product/5812)| €57.00| [Mouser](https://eu.mouser.com/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5fnLhlMNnKTiQ%3D%3D)|￥410|[Taobao](https://e.tb.cn/h.64IIvlisvAL15g8?tk=fdOVexkHECW "https://e.tb.cn/h.64IIvlisvAL15g8?tk=fdOVexkHECW")|
-| USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |￥48|[Taobao](https://e.tb.cn/h.64ILq3suMKATfUx?tk=IPSEexQAvxu "https://e.tb.cn/h.64ILq3suMKATfUx?tk=IPSEexQAvxu")|
-| microSD card | 1 | $11.23 | [Amazon](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7C7LL1/) | €10.00 | [Amazon](https://www.amazon.fr/Lexar-Carte-Micro-adaptateur-Smartphone/dp/B08XZ2KS1F)|￥58|[Taobao](https://e.tb.cn/h.64DMZzLz5h26s12?tk=eImPex96lCQ "https://e.tb.cn/h.64DMZzLz5h26s12?tk=eImPex96lCQ")|
-| **Total** ||  **$98**  ||  **€91** ||  **¥564** ||
+| Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) |  Unit Cost (CN) | Buy (CN) | Unit Cost (AU) | Buy (AU) |
+|--|:-:|:-:|-|:-:|-|:-:|-|:-:|-|
+| Raspberry Pi 5 (4GB)| 1 |$60.00| [Adafruit](https://www.adafruit.com/product/5812)| €57.00| [Mouser](https://eu.mouser.com/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5fnLhlMNnKTiQ%3D%3D)|￥410|[Taobao](https://e.tb.cn/h.64IIvlisvAL15g8?tk=fdOVexkHECW "https://e.tb.cn/h.64IIvlisvAL15g8?tk=fdOVexkHECW")|AU$149|[JayCar](https://www.jaycar.com.au/raspberry-pi-5-single-board-computer-4gb/p/XC9106?srsltid=AfmBOopT4lkfj6gaEEuTSFFtruaVc0cd4v5jJvL9krfRo3W39youEDH7)|
+| USB camera<sup>[2](#footnote2)</sup> | 2 | $12.98 | [Amazon](https://a.co/d/236G8Wn) | €12.00 | [Amazon](https://www.amazon.fr/Vinmooog-equipement-Microphone-Enregistrement-conf%C3%A9rences/dp/B0BG1YJWFN/) |￥48|[Taobao](https://e.tb.cn/h.64ILq3suMKATfUx?tk=IPSEexQAvxu "https://e.tb.cn/h.64ILq3suMKATfUx?tk=IPSEexQAvxu")| AU$37.58 | [Amazon](https://www.amazon.com/dp/B0D72VQR6Q?ref=cm_sw_r_cp_ud_dp_3AP0E8J5TT1KF38KM6JR&ref_=cm_sw_r_cp_ud_dp_3AP0E8J5TT1KF38KM6JR&social_share=cm_sw_r_cp_ud_dp_3AP0E8J5TT1KF38KM6JR&th=1)
+| microSD card | 1 | $11.23 | [Amazon](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7C7LL1/) | €10.00 | [Amazon](https://www.amazon.fr/Lexar-Carte-Micro-adaptateur-Smartphone/dp/B08XZ2KS1F)|￥58|[Taobao](https://e.tb.cn/h.64DMZzLz5h26s12?tk=eImPex96lCQ "https://e.tb.cn/h.64DMZzLz5h26s12?tk=eImPex96lCQ")| AU$14 | [Amazon](https://www.amazon.com.au/SanDisk-microSDXC-Adapter-Performance-SDSQUAB-064G-GN6MA/dp/B0B7NXBM6P/ref=asc_df_B0B7NXBM6P?mcid=3fc31ca6bd2c3ea3a0448dc463ee48d0&tag=googleshopdsk-22&linkCode=df0&hvadid=712244421516&hvpos=&hvnetw=g&hvrand=6535890755486813738&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9070586&hvtargid=pla-1882573767551&gad_source=1&th=1)
+| **Total** ||  **$98**  ||  **€91** ||  **¥564** || **AU$238.16** ||
 
 ### Other
 | Part| Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) |
