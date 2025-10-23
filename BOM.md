@@ -45,8 +45,8 @@ These parts are the same for both 5V and 12V versions:
 ## 12V version :battery:
 
 ### Mobile Base Electronics (12V):
-| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) |
-|:---|:---:|:---:|:---|:---:|---:|:-:|-|
+| Part | Amount | Unit Cost (US) | Buy (US) | Unit Cost (EU) | Buy (EU) | Unit Cost (CN) | Buy (CN) | Unit Cost (AU) | Buy (AU) |
+|:---|:---:|:---:|:---|:---:|---:|:-:|-|:-:|-|
 | 12v 5a Battery | 1 | $32.99 | [Amazon](https://www.amazon.com/KBT-Rechargeable-Connector-Replacement-Security/dp/B0C242DYT1/ref=sr_1_2_sspa?) | €45.79 | [Amazon](https://www.amazon.fr/dp/B0D5QSMW21) | ￥70 |[Taobao](https://e.tb.cn/h.64IJNTnXwhn44BS?tk=PQQ8exkJEtR "https://e.tb.cn/h.64IJNTnXwhn44BS?tk=PQQ8exkJEtR")|
 | Lever Wire Connector | 1 | $6.70 | [Amazon](https://www.amazon.com/Wago-221-413-LEVER-NUTS-Conductor-Connectors/dp/B06XGYXVXR/ref=sr_1_4) | €7.18 | [Amazon](https://www.amazon.fr/221-413-fil-électrique-connecteur-220-240-Terminal/dp/B01AKF3I58) | ￥3.50 |[Taobao](https://e.tb.cn/h.64r0Z6Y5jZczq5q?tk=XEaSex908q0 "https://e.tb.cn/h.64r0Z6Y5jZczq5q?tk=XEaSex908q0")|
 | 12v 5a DC plug connector | 1 | $9.49 | [Amazon](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/ref=sr_1_11) | €8.99 | [Amazon](https://www.amazon.fr/RUNCCI-YUN-Alimentation-dalimentation-Connecteur-Surveiller/dp/B0CX44HTKZ) | ￥3.10 |[Taobao](https://e.tb.cn/h.64IFOvrMdUVoQQX?tk=nahtexkvokE "https://e.tb.cn/h.64IFOvrMdUVoQQX?tk=nahtexkvokE")|
